@@ -60,3 +60,6 @@ Here are some ideas to get you started:
 
 ## Career
 - 신한대학교 2캠퍼스 학생을 위한 카풀/택시 동승 앱 개발
+
+## Contact
+- pigmong02020202@gmail.com
