@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 <!-- Java -->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <!-- JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <!-- python -->
+<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+
+</br>
+
 <!-- php -->
 <!-- MySQL -->
 <!-- Apache2 -->
