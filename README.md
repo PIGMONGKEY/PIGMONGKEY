@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Skills
+
 <a href="https://img.shields.io/badge/firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white"/>
 </a>
