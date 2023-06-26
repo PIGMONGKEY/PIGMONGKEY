@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Pig-Mongkey&fontAlignY=40&fontColor=ffcc00&animation=scaleIn)
 
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **PIGMONGKEY/PIGMONGKEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills
+## Skills
 
 <div>
   <!-- C++ -->
