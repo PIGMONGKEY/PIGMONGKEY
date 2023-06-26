@@ -39,8 +39,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/apache-%23D22128?style=for-the-badge&logo=apache&logoColor=white">
   <!-- Firebase -->
   <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <!-- Eclipse -->
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <!-- Android -->
   <img src="https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white">
   <!-- github -->
