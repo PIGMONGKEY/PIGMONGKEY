@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://img.shields.io/badge/firebase-#FFCA28?style=flat&logo=firebase&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/firebase-%23FFCA28
-"/></a>
+<a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/firebase-%23FFCA28"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIGMONGKEY&show_icons=true&theme=gruvbox_light)
