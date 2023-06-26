@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Skills
 
 <!-- C++ -->
-<img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <!-- Java -->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <!-- JavaScript -->
