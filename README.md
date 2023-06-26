@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20PIGMONGKEY's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=62&height=250)
 
-# Hi there 👋
-
 <!--
 **PIGMONGKEY/PIGMONGKEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,4 +57,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIGMONGKEY&show_icons=true&theme=gruvbox_light)
+
+## Career
+
+<div>
+  - 신한대학교 진학
+</div>
