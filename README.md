@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=250&text="Pig-Mongkey"&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=250&text="Pig-Mongkey"&fontAlign=80&fontAlignY=40)
 
 ### Hi there 👋
 
