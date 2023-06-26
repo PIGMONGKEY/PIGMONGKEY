@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- MySQL -->
 <!-- Eclipse -->
 <!-- github -->
-<a><img src="https://img.shields.io/badge/firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
