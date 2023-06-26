@@ -19,29 +19,31 @@ Here are some ideas to get you started:
 
 ### Skills
 
-<!-- C++ -->
-<img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<!-- Java -->
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<!-- python -->
-<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-
-</br>
-
-<!-- php -->
-<!-- MySQL -->
-<!-- Apache2 -->
-
-<!-- Firebase -->
-<img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<!-- Eclipse -->
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<!-- Android Studio -->
-<!-- github -->
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<div>
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <!-- python -->
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+  
+  </br>
+  
+  <!-- php -->
+  <!-- MySQL -->
+  <!-- Apache2 -->
+  
+  <!-- Firebase -->
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <!-- Eclipse -->
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+  <!-- Android Studio -->
+  <!-- github -->
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIGMONGKEY&show_icons=true&theme=gruvbox_light)
