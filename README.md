@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 ### Skills
 
 <!-- Firebase -->
-<img src="https://img.shields.io/badge/firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white"/>
 <!-- Java -->
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <!-- Eclipse -->
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <!-- github -->
+<img src="https://img.shields.io/badge/firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIGMONGKEY&show_icons=true&theme=gruvbox_light)
