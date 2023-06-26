@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIGMONGKEY&show_icons=true&theme=gruvbox_light)
-<img src="https://img.shields.io/badge/firebase-#FFCA28"/>
+<img src="https://img.shields.io/badge/firebase-#FFCA28?style=for-the-badge&logo=appveyor"/>
