@@ -59,7 +59,4 @@ Here are some ideas to get you started:
 
 
 ## Career
-
-<div>
-  - 신한대학교 진학
-</div>
+- 신한대학교 2캠퍼스 학생을 위한 카풀/택시 동승 앱 개발
