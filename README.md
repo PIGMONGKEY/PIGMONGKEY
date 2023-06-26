@@ -32,16 +32,17 @@ Here are some ideas to get you started:
   </br>
   
   <!-- php -->
-  <!-- MySQL -->
-  <!-- Apache2 -->
-  
-  <!-- Firebase -->
-  <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <!-- Apache2 -->
+  <img src="https://img.shields.io/badge/apache-%23D22128?style=for-the-badge&logo=apache&logoColor=white">
+  <!-- Firebase -->
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <!-- Eclipse -->
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-  <!-- Android Studio -->
+  <!-- Android -->
+  <img src="https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white">
   <!-- github -->
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
