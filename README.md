@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIGMONGKEY&show_icons=true&theme=gruvbox_light)
 <img src="https://img.shields.io/badge/test-blue"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIGMONGKEY&show_icons=true&theme=gruvbox_light)
