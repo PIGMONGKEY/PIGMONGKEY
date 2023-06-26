@@ -49,13 +49,14 @@ Here are some ideas to get you started:
   </br>
 
   ### I'm also interested in...
-
   <!-- Swift -->
   <img src="https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white">
   <!-- React -->
   <img src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white">
   <!-- TypeScript -->
   <img scr="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <!-- Flutter -->
+  <img src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIGMONGKEY&show_icons=true&theme=gruvbox_light)
