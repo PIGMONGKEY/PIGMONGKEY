@@ -20,44 +20,28 @@ Here are some ideas to get you started:
 <div>
 
   ### I can use...
-  <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <!-- Java -->
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <!-- Spring -->
+  <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <!-- SpringBoot -->
+  <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <!-- python -->
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-  
-  </br>
-  
-  <!-- php -->
-  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <!-- Apache2 -->
-  <img src="https://img.shields.io/badge/apache-%23D22128?style=for-the-badge&logo=apache&logoColor=white">
   <!-- Firebase -->
   <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <!-- Android -->
   <img src="https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white">
   <!-- github -->
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
-  </br>
-
-  ### I'm also interested in...
-  <!-- Swift -->
-  <img src="https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white">
-  <!-- Spring -->
-  <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <!-- SpringBoot -->
-  <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 
 
 ## Career
 - 신한대학교 2캠퍼스 학생을 위한 카풀/택시 동승 앱 개발
+- 2023 SW융합대학 공동헤커톤 후원기업상 수상 - JUDA
 
 ## Contact
 - pigmong02020202@gmail.com
