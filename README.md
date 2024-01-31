@@ -40,16 +40,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MARIADB-%23003545?style=for-the-badge&logo=MARIADB&logoColor=white">
   <!-- Redis -->
   <img src="https://img.shields.io/badge/REDIS-%23DC382D?style=for-the-badge&logo=REDIS&logoColor=white">
+  <!-- Amazon RDS -->
+  <img src="https://img.shields.io/badge/Amazon%20RDS-%23527FFF?style=for-the-badge&logo=Amazon%20rds&logoColor=white">
+  <!-- Amazon DynamoDB -->
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-%234053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
 
   #### Services...
   <!-- Firebase -->
   <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <!-- Amazon RDS -->
-  <img src="https://img.shields.io/badge/Amazon%20RDS-%23527FFF?style=for-the-badge&logo=Amazon%20rds&logoColor=white">
   <!-- Amazon S3 -->
   <img src="https://img.shields.io/badge/Amazon%20S3-%23569A31?style=for-the-badge&logo=Amazon%20s3&logoColor=white">
-  <!-- Amazon DynamoDB -->
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-%234053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
   <!-- Amazon EC2 -->
   <img src="https://img.shields.io/badge/Amazon%20EC2-%23FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 
