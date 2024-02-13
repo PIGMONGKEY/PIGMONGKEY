@@ -76,7 +76,8 @@ Here are some ideas to get you started:
 - 2023 SW융합대학 공동헤커톤 후원기업상 수상 - JUDA
 - 자세인식 모델을 이용한 실신 감지 시스템 개발
 - 2023 교내 SW해커톤 우수상 수상
-- ICAEIC - 2024 국제 학회 발표
+- ICT-AES 주관 ICAEIC - 2024 국제 학회 발표
+- ICT-AES 주관 ICAEIC - 2024 Best Paper Award 수상
 
 ## Contact
 - pigmong02020202@gmail.com
